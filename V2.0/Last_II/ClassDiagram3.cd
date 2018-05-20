@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Last_II.Background" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.Bullet" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAgAAAAAAAAAAAABAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.EnemyBullet" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>EnemyBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.EntityAll" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJIAAAgAAAAAAAERBAAAAAAAAAAAAAAABYAA=</HashCode>
+      <FileName>EntityAll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.HelpOption" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAQCAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>HelpOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.HeroBullet" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>HeroBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.MainOption" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACAAAAAACAAAACAAA4AAAAAHAAAAAAAAA=</HashCode>
+      <FileName>MainOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.PlaneEnemy">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAgAAAAAAQAAAAAAFAAAAIAUBAAADABE=</HashCode>
+      <FileName>PlaneEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.PlaneFather" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>PlaneFather.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.PlaneHero" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgoAAAAQAAkAAABYQAAAAAAAAQAAAYAAAAAAFABA=</HashCode>
+      <FileName>PlaneHero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.Program" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.ScoreOption" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACAAAAAACAAAACAEg4AAAAAHAIAAAAAAA=</HashCode>
+      <FileName>ScoreOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.Single">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAISAAAAAAAAAghAAABBAAAAAAEAAAAAQIAAAAAgABA=</HashCode>
+      <FileName>Single.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.StartOption" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAACgCAAAAAAAACAAAACAAAAAABgAAIBAAAAAAA=</HashCode>
+      <FileName>StartOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.Properties.Resources" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAgAAAAAAAQABMAAAAQAAAAAAABAAAAAAIIo=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_II.Properties.Settings" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Last_II.Variety" Collapsed="true">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAABAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>EntityAll.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

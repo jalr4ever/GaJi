@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\bin\x64\Debug\Last_II.exe.config
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\bin\x64\Debug\pl.mdf
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\bin\x64\Debug\pl_log.ldf
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\bin\x64\Debug\Last_II.exe
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\bin\x64\Debug\Last_II.pdb
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\obj\x64\Debug\Last_II.HelpOption.resources
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\obj\x64\Debug\Last_II.MainOption.resources
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\obj\x64\Debug\Last_II.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\obj\x64\Debug\Last_II.ScoreOption.resources
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\obj\x64\Debug\Last_II.StartOption.resources
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\obj\x64\Debug\Last_II.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\obj\x64\Debug\Last_II.exe
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\obj\x64\Debug\Last_II.pdb
+C:\Users\Administrator\Desktop\Last_II_13\Last_II\obj\x64\Debug\Last_II.csprojResolveAssemblyReference.cache
